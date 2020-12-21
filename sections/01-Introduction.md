@@ -4,7 +4,7 @@ Introduction
 
 ## Contents
 
-- [What is this Cookbook](01-Introduction.md#what-is-this-cookbook)
+- [What is this Cookbook about?](01-Introduction.md#what-is-this-cookbook)
 - [Data Engineer vs Data Scientist](01-Introduction.md#data-engineer-vs-data-scientist)
   - [Data Engineer](01-Introduction.md#data-engineer)
   - [Data Scientist](01-Introduction.md#data-scientist)
@@ -18,7 +18,7 @@ Introduction
   - [Visualize](01-Introduction.md#visualize)
 - [Who Companies Need](01-Introduction.md#who-companies-need)
 
-## What is this Cookbook
+## What is this Cookbook about
 
 I get asked a lot:
 "What do you actually need to learn to become an awesome data engineer?"
